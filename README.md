@@ -19,6 +19,7 @@ I have credits on **American Dad!**, **She-Ra and the Princesses of Power**, **T
 
 - [ChewGumDSP](https://github.com/chewgumlabs/ChewGumDSP): a narrow Web Audio extraction for NES-style triangle waves, MIDI frequency conversion, and bell synthesis.
 - [ChewGumTimeChime](https://github.com/chewgumlabs/ChewGumTimeChime): a musical harness for stroke smoothing algorithms, timed chimes, and live drawing interaction.
+- [ChewGumDitheringGun](https://github.com/chewgumlabs/ChewGumDitheringGun): a small browser dithering microscope for putting art under resolution, palette, and dithering constraints.
 - [ChewGumSite](https://github.com/chewgumlabs/ChewGumSite): the public site and source trail for current Shane Curry / ChewGum work.
 
 ## Elsewhere
