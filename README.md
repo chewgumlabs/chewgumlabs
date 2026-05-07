@@ -1,10 +1,10 @@
 # Shane Curry
 
-Animator, sheet timer, timing director, and systems builder.
+Animator, Timing Supervisor and Systems Builder.
 
-I build **ChewGum Animation**, a public animation practice focused on television craft, local tools, and AI-assisted research. My work spans television, streaming, independent animation, and software experiments built around drawing, motion, and visual explanation.
+Shane operates **Chew Gum Labs**, a public facing business focused on AI-infused tools, products and AI-assisted research. His work spans television, streaming, independent animation, and software experiments built around drawing, motion, and visual explanation.
 
-I have credits on **American Dad!**, **She-Ra and the Princesses of Power**, **Trolls: The Beat Goes On!**, **Duncanville**, and **HouseBroken**.
+Shane has credits on **American Dad!**, **She-Ra and the Princesses of Power**, **Trolls: The Beat Goes On!**, **Duncanville**, and **HouseBroken**.
 
 ## Start here
 
